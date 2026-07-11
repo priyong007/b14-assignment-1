@@ -263,3 +263,7 @@ footer{
 .footer-parent hr{
     margin: 20px 0;
 }
+.footer-parent h4{
+    color: #FFFFFF;
+    text-align: center;
+}
