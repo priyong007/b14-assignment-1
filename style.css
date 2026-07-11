@@ -145,6 +145,14 @@ header{
     color: #888888;
     padding: 8px 0;
 } 
+.pricing-container-1 hr{
+    color: #888888;
+    margin-top: 10px 0;
+} 
+.pricing-pro hr{
+    color: #FFFFFF;
+    margin-top: 10px 0;
+} 
 .pricing-pro h5{
     font-size: 20px;
     color: #93C5FD;
@@ -164,11 +172,13 @@ header{
     font-size: 14px;
     color: #888888;
     padding: 4px 0;
+    padding-bottom: 20px;
 } 
 .pricing-pro p{
     font-size: 14px;
     color: #FFFFFF;
     padding: 4px 0;
+    padding-bottom: 20px;
 } 
 .pricing-pro{
     border: 1px solid #E5E7EB ;
