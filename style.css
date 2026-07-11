@@ -34,6 +34,7 @@
 }
 .nav-ul ul li a{
     text-decoration: none;
+    color: #575757;
 }
 /* nav end hero banner/ header start */
 header{
@@ -254,6 +255,7 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+
 .footer-div .footer-icon{
     font-size: 20px;
 }
