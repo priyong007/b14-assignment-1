@@ -1,0 +1,1 @@
+For a Developer conference event name is Devconf 2026, i want to make a simple newsletter signup section. give me some ui section idea for this event.
