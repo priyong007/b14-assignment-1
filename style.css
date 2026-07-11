@@ -204,4 +204,45 @@ header{
     padding: 12px 90px;
     border-radius: 12px;
     cursor: pointer;
-} 
+}
+ /*pricing plan end ai missing section started  */
+
+.ai-parent{
+    
+}
+.ai-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.ai-div-left img{
+    max-width: 100%;
+    border-radius: 20px;
+}
+.ai-div-right{
+    text-align: left;
+}
+.ai-div-right h2{
+    padding: 20px 0;
+    font-size: 32px;
+}
+.ai-div-right p{
+    padding: 20px 0;
+    
+}
+.ai-div-right input{
+    border: 2px solid #2563EB;
+    padding: 6px 30px;
+    border-radius: 8px;
+}
+.ai-div-right button{
+    border: 2px solid #2563EB;
+    padding: 6px 42px;
+    border-radius: 8px;
+    background-color: #1D4ED8;
+    color: #E5E7EB;
+    cursor: pointer;
+}
+/* ai missing section end footer start */
