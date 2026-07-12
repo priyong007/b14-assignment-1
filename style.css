@@ -271,7 +271,7 @@ footer{
 }
 .footer-bottom{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 }
 .footer-text-right p{
